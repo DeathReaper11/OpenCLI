@@ -29,8 +29,6 @@ if(_input == "cli"):
 
 if(_input == "" or _input == " "):
     error_type = 1
-    #time.sleep(1.0)
-    #error_type = 0
 
 if(_input == "exit" or _input == "quit"):
     print("Exiting OpenCLI.")
