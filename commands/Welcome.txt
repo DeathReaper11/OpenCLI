@@ -1,1 +1,2 @@
-Hi Man Howz life!
+Welcome to OpenCLI.
+The Open-Source Command Line Interface.
